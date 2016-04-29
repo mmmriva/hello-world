@@ -1,3 +1,3 @@
 # hello-world
-first repository
-finalmente riesco ad esitare questo file.
+# first repository
+finalmente riesco ad editare questo file.
